@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa63f5a9c480f13110c8af8368d99ed501019cbc2",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa63f5a9c480f13110c8af8368d99ed501019cbc2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "World Art Collection",
+  "SYMBOL": "WAC",
+  "MAX_SUPPLY": 12893,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/world-art-collection-",
+  "SHOW_BACKGROUND": true
+}
